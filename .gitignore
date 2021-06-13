@@ -1,0 +1,6 @@
+*.history
+*.vs
+*.vscode
+*[Bb]in
+*[Dd]ebug
+*[Oo]bj
